@@ -50,9 +50,16 @@ namespace tp1._4
                 case 12:
                     targetMonht = "Diciembre";
                     break;
+
+                default:
+                    targetMonht = "invalid";
+                    break;
             }
 
-            Console.WriteLine($"El mes seleccionado es {targetMonht}");
+            if (targetMonht == "invalid")
+                Console.WriteLine($"Mes inválido");
+            else
+                Console.WriteLine($"El mes seleccionado es {targetMonht}");
         }
     }
 }
