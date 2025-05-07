@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GastosApp2", "GastosApp2\Ga
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp1-Algoritmos-y-programacion-2025", "Tp1-Algoritmos-y-programacion-2025\Tp1-Algoritmos-y-programacion-2025.csproj", "{9FEA7EDA-683F-4441-A64E-350F962636B9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tp1-Punto3", "Tp1-Punto3\Tp1-Punto3.csproj", "{2497B921-E507-47FC-B604-3F740235F51D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{9FEA7EDA-683F-4441-A64E-350F962636B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9FEA7EDA-683F-4441-A64E-350F962636B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9FEA7EDA-683F-4441-A64E-350F962636B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2497B921-E507-47FC-B604-3F740235F51D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2497B921-E507-47FC-B604-3F740235F51D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2497B921-E507-47FC-B604-3F740235F51D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2497B921-E507-47FC-B604-3F740235F51D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
