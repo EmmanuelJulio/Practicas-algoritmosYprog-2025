@@ -4,10 +4,17 @@
     {
         public string Nombre { get; private set; }
         public string Apellido { get; private set; }
+        public int Edad {  get; private set; }
         public Usuario(string nombre, string apellido)
         {
             this.Nombre = nombre;
             this.Apellido = apellido;
+        }
+
+        public Usuario(int edad, string nombre) 
+        {
+            this.Nombre = nombre;
+            this.Edad = edad;
         }
     }
 }
